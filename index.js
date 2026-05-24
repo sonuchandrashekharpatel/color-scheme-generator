@@ -45,6 +45,5 @@ document.addEventListener("click", e => {
             icon.src = "images/check.png"
             icon.alt = "copied icon"
         })
-
     }
 })
